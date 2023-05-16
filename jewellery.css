@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgimage {
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-akshaya-tritiya-illustration_23-2149365958.jpg?w=740&t=st=1670586228~exp=1670586828~hmac=97306ecd157cc77a473b53998784aa763d85b18e72c7bde5e17a0fe3cdbb12aa");
+    height: 35vh;
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.head {
+    font-family: "Caveat";
+    width: 128px;
+}
+
+.bottom {
+    background-color: #e6f6ff;
+    text-align: center;
+    padding: 50px;
+}
+
+.bcard {
+    background-color: white;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.bimage {
+    height: 64px;
+    width: 64px;
+}
+
+.chead {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+
+}
+
+.price {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.botton {
+    text-align: center;
+}
